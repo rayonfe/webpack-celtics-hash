@@ -13,7 +13,7 @@ function useMd5(webpackCompiler) {
                 if (cache[name]) return cache[name]
 
                 const source =
-                    webpackCompiler.assets[name].source()
+                    out.assets[name].source()
                 const sourceWithMd5 = md5(source).slice(0, 12)
 
                 const [ sourceName, suffix ] = name.split('.')
