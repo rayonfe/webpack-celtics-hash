@@ -1,0 +1,22 @@
+{
+  "name": "webpack-celtics-hash",
+  "version": "1.0.0",
+  "description": "fix hash change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayonfe/webpack-celtics-hash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayonfe/webpack-celtics-hash/issues"
+  },
+  "homepage": "https://github.com/rayonfe/webpack-celtics-hash#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
