@@ -1,6 +1,6 @@
 {
   "name": "webpack-celtics-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fix hash change",
   "main": "index.js",
   "scripts": {
